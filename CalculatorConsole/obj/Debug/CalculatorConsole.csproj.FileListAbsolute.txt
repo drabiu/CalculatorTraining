@@ -1,0 +1,8 @@
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorEngine.dll
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorEngine.pdb

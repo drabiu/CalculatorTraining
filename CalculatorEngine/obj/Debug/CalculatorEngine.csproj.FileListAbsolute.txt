@@ -1,0 +1,5 @@
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csprojResolveAssemblyReference.cache
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
