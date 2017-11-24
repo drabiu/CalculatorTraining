@@ -32,6 +32,10 @@ namespace CalculatorConsole
 			{
 				result = calc.Mul(enteredValue, enteredSecondValue);
 			}
+            else if (enteredOperation == "%")
+            {
+                result = calc.Percent(enteredValue, enteredSecondValue);
+            }
 
 			Console.WriteLine("=");
 			Console.WriteLine(result);

@@ -6,3 +6,12 @@ p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConso
 p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
 p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorEngine.dll
 p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorConsole\bin\Debug\CalculatorEngine.pdb
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\bin\Debug\CalculatorEngine.dll
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\bin\Debug\CalculatorEngine.pdb
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\obj\Debug\CalculatorConsole.csprojResolveAssemblyReference.cache
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
