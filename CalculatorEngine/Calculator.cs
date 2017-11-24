@@ -2,7 +2,7 @@
 
 namespace CalculatorEngine
 {
-	public class Calculator : ICalculator
+    public class Calculator : ICalculator
     {
 		public decimal Add(decimal value, decimal value2)
 		{
