@@ -5,7 +5,6 @@ p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngin
 p:\users\9drabm\documents\visual studio 2015\Projects\Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\bin\Debug\CalculatorEngine.dll
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
-C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.csprojResolveAssemblyReference.cache
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.dll
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.pdb

@@ -13,29 +13,10 @@ namespace CalculatorConsole
 			string enteredOperation = Console.ReadLine();
 			Console.WriteLine("Podaj drugą liczbę:");
 			decimal enteredSecondValue = decimal.Parse(Console.ReadLine());
-			decimal result = 0;
+            decimal result = 0;
 
-			ICalculator calc = new Calculator();
-			if (enteredOperation == "+")
-			{
-				result = calc.Add(enteredValue, enteredSecondValue);
-			}
-			else if (enteredOperation == "-")
-			{
-				result = calc.Sub(enteredValue, enteredSecondValue);
-			}
-			else if (enteredOperation == "/")
-			{
-				result = calc.Div(enteredValue, enteredSecondValue);
-			}
-			else if (enteredOperation == "*")
-			{
-				result = calc.Mul(enteredValue, enteredSecondValue);
-			}
-            else if (enteredOperation == "%")
-            {
-                result = calc.Percent(enteredValue, enteredSecondValue);
-            }
+            IOperationManager operationManager = new OperationManager(enteredValue, enteredSecondValue, new Calculator());
+            result = operationManager.ExecuteOperation(enteredOperation);
 
 			Console.WriteLine("=");
 			Console.WriteLine(result);
