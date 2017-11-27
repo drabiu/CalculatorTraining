@@ -10,7 +10,7 @@
         {
             _enteredValue = enteredValue;
             _enteredSecondValue = enteredSecondValue;
-            _calculator = new Calculator();
+            _calculator = new Calculator2();
         }
 
         public decimal ExecuteOperation(string operation)
