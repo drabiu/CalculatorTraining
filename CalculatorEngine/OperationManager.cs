@@ -38,33 +38,6 @@
             }
 
             return result;
-        }
-
-        public decimal ExecuteOperation2(string operation)
-        {
-            decimal result = 0;
-            if (operation == "+")
-            {
-                result = _calculator.Add(_enteredValue, _enteredSecondValue);
-            }
-            else if (operation == "-")
-            {
-                result = _calculator.Sub(_enteredValue, _enteredSecondValue);
-            }
-            else if (operation == "/")
-            {
-                result = _calculator.Div(_enteredValue, _enteredSecondValue);
-            }
-            else if (operation == "*")
-            {
-                result = _calculator.Mul(_enteredValue, _enteredSecondValue);
-            }
-            else if (operation == "%")
-            {
-                result = _calculator.Percent(_enteredValue, _enteredSecondValue);
-            }
-
-            return result;
-        }
+        }      
     }
 }
