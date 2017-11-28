@@ -42,9 +42,11 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="Calculator2.cs" />
+    <Compile Include="CalculatorCreator.cs" />
     <Compile Include="CalculatorPanel.cs" />
     <Compile Include="CalculatorSci.cs" />
     <Compile Include="ICalculator.cs" />
+    <Compile Include="ICalculatorCreator.cs" />
     <Compile Include="ICalculatorSci.cs" />
     <Compile Include="IOperationManager.cs" />
     <Compile Include="OperationManager.cs" />
