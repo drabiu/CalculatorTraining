@@ -8,3 +8,4 @@ C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\bin\Debug\Ca
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.dll
 C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+C:\Users\mdrab\Documents\GitHub\CalculatorTraining\CalculatorEngine\obj\Debug\CalculatorEngine.csprojResolveAssemblyReference.cache

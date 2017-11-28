@@ -2,9 +2,9 @@
 
 namespace CalculatorEngine
 {
-    public class Calculator2 : CalculatorPanel, ICalculator
+    public class Calculator2 : CalculatorPanel
     {
-        public new decimal Percent(decimal value, decimal value2)
+        public override decimal Percent(decimal value, decimal value2)
         {
             var result = value / 100 * value2;
 

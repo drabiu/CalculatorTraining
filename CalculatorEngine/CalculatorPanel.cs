@@ -19,7 +19,7 @@ namespace CalculatorEngine
             return value * value2;
         }
 
-        public decimal Percent(decimal value, decimal value2)
+        public virtual decimal Percent(decimal value, decimal value2)
         {
             var result = value2 / value * 100;
 
