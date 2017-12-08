@@ -1,5 +1,7 @@
 ﻿using CalculatorEngine;
 using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CalculatorConsole
 {
@@ -7,13 +9,16 @@ namespace CalculatorConsole
 	{
 		static void Main(string[] args)
 		{
+            List<string> commands = new List<string>() { string.Empty };
+
             Console.WriteLine("Podaj typ kalkulatora:");
             string enteredType = Console.ReadLine();
 
             while (true)
             {
-                Console.WriteLine("Podaj działanie:");
+                Console.WriteLine("Podaj działanie(ostatnie - {0}):", commands.Last());
                 string enteredLine = Console.ReadLine();
+                commands.Add(enteredLine);
                 if (enteredLine == "quit")
                     break;
 
